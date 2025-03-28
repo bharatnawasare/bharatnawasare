@@ -17,3 +17,17 @@ Bharat Anil Nawasare Portfolio
 
 ⚡ Fun fact: I have been working with data for more than 10 years with Diploma and Degree in Computer Science and Masters Degree in Business Analytics. 
 
+# Tech Stack: 💻 
+Languages and Tools:
+
+                          
+
+Databases
+                 
+
+Libraries and Frameworks
+                       
+
+Cloud Services and Tools
+                             
+
