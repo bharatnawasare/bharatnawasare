@@ -1,4 +1,4 @@
-  # Hi, I'm Bharat Anil Nawasare: 👋
+  # Hi, I'm Bharat Anil Nawasare:
 
 Data Engineer & Analyst - Driving Data Business Solutions. A collaborative team player with 4+ years of full-time experience across IT,SaaS, Suppy Chain & Logistics and Payment Domain industries.
 Bharat Anil Nawasare Portfolio
