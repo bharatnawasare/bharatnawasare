@@ -18,16 +18,11 @@ Bharat Anil Nawasare Portfolio
 ⚡ Fun fact: I have been working with data for more than 10 years with Diploma and Degree in Computer Science and Masters Degree in Business Analytics. 
 
 # Tech Stack: 💻 
-Languages and Tools:
-
-                          [
-](https://camo.githubusercontent.com/0d0779a129f1dcf6c31613b701fe0646fd4e4d2ed2a7cbd61b27fd5514baa938/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534)
-Databases
-                 
-
-Libraries and Frameworks
-                       
-
-Cloud Services and Tools
-                             
+**Languages and Tools:** Python (NumPy, Pandas, TensorFlow, PyTorch, Seaborn, Matplotlib), R, SQL, PL/SQL, Scala (Beginner), PySpark
+**Database & Storage:** Snowflake, Redshift, Google Big Query, ADLS, Azure Synapse, S3, MySQL, MSSQL, MongoDB, PostgreSQL                 
+**ETL:** Airflow, DBT, Databricks, Azure Data Factory, Cloud Dataflow, Athena, Pentaho, Informatica, SSIS, SAS
+**Visualization:** PowerBI, Tableau, Quicksight, Looker
+**Cloud Technologies:** Azure, AWS, GCP
+**Big Data Technologies:** Spark, Kafka, YARN, HDFS, Hadoop
+**Other Tools:** Git, Agile, JIRA, Docker, Visual Studio Code, Jupyter
 
