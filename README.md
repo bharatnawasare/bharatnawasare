@@ -15,16 +15,17 @@ Linkedin
 
 💬 Ask me about the Data World in Different domain's such as Payment Domain, Supply chain & logistics and Service based companies.
 
-📫 Reach me at bnawasare@gmail.com
+📫 Reach me at bnawasare@gmail.com || ban45@drexel.edu 
 
 ⚡ Fun fact: I have been working with data for more than 10 years with Diploma and Degree in Computer Science and Masters Degree in Business Analytics. 
 <br/>
 
 </a> 
 
-@@ -33,11 +33,11 @@
+# My Projects
 <ul>
-
+# Data Engineering & Analytics
+  
 <li><a href="https://github.com/roshinip21/Snowflake-Costing-Dashboards">Snowflake DB ETL Costing</a> - Developed Power BI dashboards to analyze Snowflake warehouse compute, client, and ETL costs on AWS.</li>
   <li><a href="https://github.com/roshinip21/Real-time-Data-Streaming-and-Dashboard-Visualization-with-AWS">AWS Real time Data Pipeline Streaming & Dashboard Visualization</a> - A comprehensive end-to-end solution for ingesting, processing, and visualizing real-time data streams utilizing Apache Flink, Amazon Web Services like Kinesis, Glue, S3, Firehose, Athena, Quicksight.  </li>
   <li><a href="https://github.com/roshinip21/Real-time-Data-Streaming-and-Dashboard-Visualization-with-AWS">AWS Real-Time Data Pipeline Streaming & Dashboard Visualization</a> - A comprehensive end-to-end solution for ingesting, processing, and visualizing real-time data streams utilizing Apache Flink, Amazon Web Services like Kinesis, Glue, S3, Firehose, Athena, Quicksight.  </li>
