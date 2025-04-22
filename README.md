@@ -3,7 +3,7 @@
 
 <p align="middle"> 
 <a href="https://linkedin.com/in/bharat-nawasare" target="_blank">
-@@ -13,17 +13,17 @@
+Linkedin
 
 # About Me: 👋
 
