@@ -1,28 +1,25 @@
 <h1 align="center">Hi, I'm Bharat Anil Nawasare 👋</h1>
 <h3 align="center"> Data Engineer & Analyst - Driving Data Business Solutions. A collaborative team player with 4+ years of full-time experience across IT,SaaS, Suppy Chain & Logistics and Payment Domain industries.</h3>
-<h3 align="center"> Data Engineer & Analyst - Driving Data Business Solutions. A collaborative team player with 3+ years of full-time experience across IT, ERP Retail, SaaS, Healthcare & EV industries.</h3>
+
 <p align="middle"> 
 <a href="https://linkedin.com/in/bharat-nawasare" target="_blank">
 @@ -13,17 +13,17 @@
 
-🔭 I’m currently pursuing my Masters in Information Systems at San Diego State University. Looking for full-time roles starting May 2025.
+# About Me: 👋
 
-🌱 I’m actively exploring opportunities in Data Engineering,Cloud Computing, IT, Data Science & Analytics and Technical Program Management.
-🌱 I’m actively exploring opportunities in Data Engineering, Data Analytics, Cloud Computing, and Product Analyst roles.
+🔭 I have recently graduated from Drexel University with Masters in Business Analytics. Currently Looking for full-time roles as Data Engineer, Data Analyst & Business Analyst.
 
-🤝 I thrive in team environments, where I can collaborate, share knowledge, and drive projects to successful completion.
+🌱 I’m currently learning more about the Data Engineering projects although I have 4+ years of relevant experience in the same field.
 
-💬 Ask me about The Data World, Cloud, SaaS, ERP, Enterprise Applications or projects leveraging SQL, Python, AWS, Snowflake, Spark, DataBricks, Airflow, ETL, Oracle, Power BI, etc.
-💬 Ask me about The Data World, Cloud, Machine Learning & ERP Supply chain Operations!
+👯 I thrive in team environments, where I can collaborate, share knowledge, and drive projects to successful completion.
 
-🚀 I have hands-on full-time experience with Software Development, Relational Database Management, Data Warehousing, AWS Services, Oracle ERP Systems, Data Analytics, Data Modeling, Data Visualizations using Power BI & Tableau Dashboards. I enjoy working on creative projects that leverage trending technologies & strategic thinking for delivering business value.
-🚀 I specialize in software development, relational database management, data warehousing, and analytics. Experienced with SQL, Python, AWS, Snowflake, Spark, Databricks, Airflow, Oracle, Power BI, and Tableau. I enjoy working on creative projects that leverage trending technologies & strategic thinking for delivering business value.
+💬 Ask me about the Data World in Different domain's such as Payment Domain, Supply chain & logistics and Service based companies.
 
-📫 Reach me at rp6578@sdsu.edu, roshu34@gmail.com <h4> Connect with me on <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshini-p21" height="15" width="25" /> : <a href="https://linkedin.com/in/roshini-p21" color='blue'> roshini-p21 </h4> 
+📫 Reach me at bnawasare@gmail.com
 
-⚡ Fun fact:  I talk in 5+ languages, that makes me quite adaptable with diverse individuals. I blend easily with people working in my Team & organization.
-⚡ Fun fact:  I talk in 5+ languages, that makes me quite adaptable with diverse individuals and helps adapt seamlessly within teams and organizational cultures.
+⚡ Fun fact: I have been working with data for more than 10 years with Diploma and Degree in Computer Science and Masters Degree in Business Analytics. 
 <br/>
+
 </a> 
 
 @@ -33,11 +33,11 @@
