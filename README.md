@@ -26,7 +26,7 @@ Linkedin
 <ul>
 # Data Engineering & Analytics
   
-<li><a href="https://github.com/roshinip21/Snowflake-Costing-Dashboards">Snowflake DB ETL Costing</a> - Developed Power BI dashboards to analyze Snowflake warehouse compute, client, and ETL costs on AWS.</li>
+<li><a href="https://github.com/bharatnawasare/Snowflake-Costing-Dashboards">Snowflake DB ETL Costing</a> - Developed Power BI dashboards to analyze Snowflake warehouse compute, client, and ETL costs on AWS.</li>
   <li><a href="https://github.com/roshinip21/Real-time-Data-Streaming-and-Dashboard-Visualization-with-AWS">AWS Real time Data Pipeline Streaming & Dashboard Visualization</a> - A comprehensive end-to-end solution for ingesting, processing, and visualizing real-time data streams utilizing Apache Flink, Amazon Web Services like Kinesis, Glue, S3, Firehose, Athena, Quicksight.  </li>
   <li><a href="https://github.com/roshinip21/Real-time-Data-Streaming-and-Dashboard-Visualization-with-AWS">AWS Real-Time Data Pipeline Streaming & Dashboard Visualization</a> - A comprehensive end-to-end solution for ingesting, processing, and visualizing real-time data streams utilizing Apache Flink, Amazon Web Services like Kinesis, Glue, S3, Firehose, Athena, Quicksight.  </li>
 <li><a href="https://github.com/roshinip21/NYC-Taxi-Data-ETL">New York Taxi Real-Time Data Pipeline</a> - Built a real-time ETL pipeline using Kafka, Spark, ElasticSearch & HDFS, streaming 1M+ NYC Taxi trip records daily.</li>
