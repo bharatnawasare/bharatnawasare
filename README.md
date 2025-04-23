@@ -38,25 +38,13 @@ Linkedin
 <li><a href="https://github.com/roshinip21/AWS_Retail_Enterprise_Database">Retail Store Database Management System</a> - Built a robust AWS RDS for Retail Store Operations & Analytics with interactive dashboards. Leveraged AWS services to ensure 70% horizontal scalability for retail operations</li>
 </ul>
 
-@@ -46,7 +46,7 @@
-<li><a href="https://github.com/roshinip21/Face-Recognition">Facial Recognition Systems</a> - Developed a facial recognition system using OpenCV and PostgreSQL's pgvector extension.</li>
-<li><a href="https://github.com/roshinip21/Object-detection">TensorFlow-Based Object Detection</a> - Built an object detection application using TensorFlow and React.</li>
-<li><a href="https://github.com/roshinip21/Data-Science-BreastCancer-Classification">Breast Cancer Classification</a> - Achieved 96.49% accuracy with Logistic Regression for tumor classification.</li>
-  <li><a href="https://github.com/roshinip21/Covid-19_Flask_User_Application">Covid-19 Prediction ML Models</a> - Implemented 4 ML models for COVID-19 symptom prediction with 77% accuracy.</li>
-  <li><a href="https://github.com/roshinip21/Covid-19_Flask_User_Application">Covid-19 Prediction Python Application</a> - Implemented 4 ML models for COVID-19 symptom prediction with 77% accuracy.</li>
-</ul>
 
-<h2>Cloud & DevOps</h2>
-@@ -85,7 +85,7 @@
-<img src="https://img.shields.io/badge/JAVA-%2300599C.svg?style=for-the-badge&logo=JAVA&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/HTML-%234169E1.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">&nbsp;&nbsp;
+# 💻 Tech Stack:
+<img src="https://img.shields.io/badge/JAVA-%2300599C.svg?style=for-the-badge&logo=JAVA&logoColor=white">&nbsp;&nbsp; <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp; <img src="https://img.shields.io/badge/HTML-%234169E1.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white">&nbsp;&nbsp;
 </p>
-@@ -119,12 +119,11 @@
+
+<h2>Web Development & Automation</h2>
 <img src="https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">&nbsp;&nbsp;
